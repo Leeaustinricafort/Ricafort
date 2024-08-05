@@ -1,0 +1,19 @@
+.special { font-size:x-large;}
+#interests {}
+body { background-color: blanchedalmond;}
+p { 
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    line-height: 2em;
+}
+h1 {
+     font-family: Arial, Helvetica, sans-serif;
+    }
+h2 {
+     font-family: Arial, Helvetica, sans-serif;
+    }
+h3 { 
+    color: darkblue; font-family: Arial, Helvetica, sans-serif;
+}
