@@ -1,27 +1,31 @@
-.special { font-size:x-large;}
+.portfolioprofile { display: block;
+    margin-left: auto;
+    margin-right: auto;}
+#portfolioheader {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(19, 60, 240, 0.856);
+}
 #profilepic {   
     display: block;
     margin-left: auto;
     margin-right: auto;
     }
-#interests {}
 body { 
-    width: 700px;
     margin: auto;
-    background-color: blanchedalmond;}
+    background-color: #F7F7F7;
+}
 p { 
     font-size: large;
     font-family: Arial, Helvetica, sans-serif;
+   
 }
 p {
     line-height: 2em;
 }
-h1 {
+h1, h2, h3, li {
      font-family: Arial, Helvetica, sans-serif;
+     text-align: center;
+     text-transform: uppercase;
     }
-h2 {
-     font-family: Arial, Helvetica, sans-serif;
-    }
-h3 { 
-    color: darkblue; font-family: Arial, Helvetica, sans-serif;
-}
+    li {list-style-type: none;}
